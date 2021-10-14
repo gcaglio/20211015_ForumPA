@@ -1,0 +1,13 @@
+app_id;app_name;app_owner_name;app_owner_surname;app_owner_email;operating_hours
+1;CRM;Mario;Rossi;mario.rossi@inexistence.eu;5x8
+17;WWW;Giovanni;Verdi;giovanni.verdi@inexistence.eu;7x24
+23;WAREHOUSE;Luca;Neri;luca.neri@inexistence.eu;5x8
+18;HR;Marco;Giavazzoni;marco.giavazzoni@inexistence.eu;7x24
+19;TIMBRATURE;Luca;Scarani;luca.scarani@inexistence.eu;5x8
+45;CMS_PRIV;Marco;Battirolo;marco.battirolo@inexistence.eu;7x24
+47;CMS_PUB;Marco;Battirolo;marco.battirolo@inexistence.eu;7x24
+55;BI_HR;Marco;Giavazzoni;marco.giavazzoni@inexistence.eu;5x8
+56;BI_MAGAZ;Carlo;Pedrottini;carlo.pedrottini@inexistence.eu;5x8
+57;AD;Giuliano;Bruni;giuliano.bruni@inexistence.eu;7x24
+62;INET_PROXY;Domenico;Spada;domenico.spada@inexistence.eu;7x24
+63;BILLING;Davide;Davidi;davide.davidi@inexistence.eu;7x24
